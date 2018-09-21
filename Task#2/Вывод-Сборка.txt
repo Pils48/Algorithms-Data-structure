@@ -1,0 +1,8 @@
+﻿1>------ Сборка начата: проект: ConsoleApplication1, Конфигурация: Debug Win32 ------
+1>stdafx.cpp
+1>ConsoleApplication1.cpp
+1>c:\users\nick\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+1>c:\users\nick\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4101: count: неиспользованная локальная переменная
+1>ConsoleApplication1.vcxproj -> C:\Users\Nick\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+1>Сборка проекта "ConsoleApplication1.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========

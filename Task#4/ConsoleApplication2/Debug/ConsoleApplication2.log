@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\nick\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(33): warning C4715: compare: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\Nick\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
